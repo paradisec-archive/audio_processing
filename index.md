@@ -4,7 +4,7 @@
   <img height="200" src="images/rev-rev-vox.gif">
 </p>
 
-This page offers advice for those who wish to prepare audio files for archiving with PARADISEC. The target format we accept is **.wav (96kHz/24-bit, stereo).** There is also instruction to on various other tasks pertaining to audio manipulation and extracting audio from video. 
+This page offers advice for those who wish to prepare audio files for archiving with PARADISEC. The target format we accept is **.wav (96kHz/24-bit, stereo).** There is also helpful suggestions on other actions pertaining to audio manipulation and extracting audio from video.
 
 ## Tools for audio editing or manipulation
 
