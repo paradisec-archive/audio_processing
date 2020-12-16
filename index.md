@@ -4,7 +4,7 @@
   <img height="200" src="images/rev-rev-vox.gif">
 </p>
 
-This page offers advice for those who wich to prepare audio files for archiving with PARADISEC. The target format is **.wav** with a sample rate of **96kHz, 16 bits** and is **stereo** (2 channels).
+This page offers advice for those who wish to prepare audio files for archiving with PARADISEC. The target format we accept is **.wav (96kHz/16-bit, stereo)**
 
 ## Tools for audio editing or manipulation
 
@@ -13,4 +13,6 @@ This page offers advice for those who wich to prepare audio files for archiving 
 * [ffmpeg](http://ffmpeg.org/) - Although ffmpeg is mostly known as a video processing tool, you can extract audio from video as well as manipulate your audio tracks (resample, mono -> stereo, boost volume, etc.) You can run across a full directory of files, or just one file at a time. ffmpeg is free and you will need to use the terminal to run it
 * [VLC](https://www.videolan.org/) - VLC is also mosly known as a video player, but you can easily extract audio from video using VLC. It is also free to use
 
-## 
+## Resampling your audio to 96kHz/16-bit .wav file
+
+Using Audacity
